@@ -11,7 +11,7 @@ Generated the [jsdoc-dash-template](https://github.com/theasta/jsdoc-dash-templa
 ## Installation
 1. To install the Sequelize documentation download repository. 
 2. Open the Dash, Velocity, or Zeal application
-3. Add the documentation by pointing to the `docset` folder located in `out` folder.
+3. Add the documentation by pointing to the `docset` folder located in `v4` folder.
 
 ## TODO
 Add Sequelize v5 documentation
