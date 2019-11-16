@@ -1,8 +1,7 @@
 {
   "name": "sequelize-docs",
   "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://gitlab.com/idahogurl/sequelize-docs.git",
+  "repository": "https://github.com/idahogurl/sequelize-dash-docs.git",
   "author": "Rebecca Vest <rvest@outlook.com>",
   "license": "MIT",
   "dependencies": {
