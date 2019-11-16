@@ -14,7 +14,7 @@
     },
     "docset" : {
       "name": "Sequelize 4",
-      "icon": "./docs/images/icon.png",
+      "icon": "./v4/docs/images/icon.png",
       "enableJavascript": true
     }
 }
