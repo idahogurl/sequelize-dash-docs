@@ -6,7 +6,7 @@
 [Sequelize](https://github.com/sequelize/sequelize) is a promise-based Node.js ORM for Postgres, MySQL, SQLite and Microsoft SQL Server. It features solid transaction support, relations, read replication and more.t
 
 ## Generation
-Generated the [jsdoc-dash-template](https://github.com/theasta/jsdoc-dash-template) CLI on Sequlize source code
+Generated the [jsdoc-dash-template](https://github.com/theasta/jsdoc-dash-template) CLI on Sequlize markdown docs
 
 ## Installation
 1. To install the Sequelize documentation download repository. 
