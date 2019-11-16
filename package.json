@@ -1,0 +1,12 @@
+{
+  "name": "sequelize-docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://gitlab.com/idahogurl/sequelize-docs.git",
+  "author": "Rebecca Vest <rvest@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jsdoc": "^3.6.3",
+    "jsdoc-dash-template": "^2.0.1"
+  }
+}

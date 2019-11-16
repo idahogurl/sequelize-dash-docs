@@ -1,0 +1,20 @@
+{
+    "plugins": [
+      "plugins/markdown"
+    ],
+    "recurseDepth": 10,
+    "sourceType": "module",
+    "tags": {
+        "allowUnknownTags": true,
+        "dictionaries": ["jsdoc","closure"]
+    },
+    "templates": {
+        "cleverLinks": false,
+        "monospaceLinks": false
+    },
+    "docset" : {
+      "name": "Sequelize 4",
+      "icon": "./docs/images/icon.png",
+      "enableJavascript": true
+    }
+}
